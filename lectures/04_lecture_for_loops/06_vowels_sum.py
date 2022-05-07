@@ -12,5 +12,3 @@ for letter in text:
     elif letter == "u":
         sum += 5
 print(sum)
-
-#Втори вариант е изписан в лекцията
