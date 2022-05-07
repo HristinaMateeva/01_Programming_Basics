@@ -1,9 +1,5 @@
 n = int(input())
 
-# i = 1 -> 10
-# i = 2 -> 50
-# i = 3 -> 60
-# i = 4 -> 20
 even_sum = 0
 odd_sum = 0
 for i in range(1, n + 1):
