@@ -4,8 +4,8 @@ toy_price = int(input())
 total_money = 0
 total_toys = 0
 birthday_money = 0
-for current_age in range(1, ages + 1): # range(ages)
-    if current_age % 2 != 0: #нечетна година
+for current_age in range(1, ages + 1): 
+    if current_age % 2 != 0: 
         total_toys += 1
     else:
         birthday_money += 10
