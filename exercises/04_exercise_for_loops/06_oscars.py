@@ -1,8 +1,8 @@
 actor_name = input()
 total_points = float(input())
 number_of_jury = int(input())
-# is_nominated = False
-for current_grade in range(number_of_jury): # range(1, number_of_jury + 1)
+
+for current_grade in range(number_of_jury): 
     current_name = input()
     current_points = float(input())
     current_final_points = len(current_name) * current_points / 2
@@ -10,7 +10,7 @@ for current_grade in range(number_of_jury): # range(1, number_of_jury + 1)
     if total_points > 1250.5:
         # is_nominated = True
         break
-# if is_nominated: ако е с булева променлива, следващият ред ще липсва
+
 if total_points > 1250.5:
     print(f"Congratulations, {actor_name} got a nominee for leading role with {total_points:.1f}!")
 else:
