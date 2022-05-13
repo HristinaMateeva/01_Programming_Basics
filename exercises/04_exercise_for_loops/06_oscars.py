@@ -8,7 +8,6 @@ for current_grade in range(number_of_jury):
     current_final_points = len(current_name) * current_points / 2
     total_points += current_final_points
     if total_points > 1250.5:
-        # is_nominated = True
         break
 
 if total_points > 1250.5:
