@@ -6,6 +6,3 @@ function bookList(input){
     let result = totalTime / days
     console.log(result)
 }
-
-bookList(["212 ", "20 ", "2 "])
-bookList(["432 ", "15 ", "4 "])
