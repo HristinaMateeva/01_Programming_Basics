@@ -13,7 +13,3 @@ function animalType(input){
             console.log("unknown")
     }
 }
-
-animalType(["dog"]);
-animalType(["snake"]);
-animalType(["cat"]);
