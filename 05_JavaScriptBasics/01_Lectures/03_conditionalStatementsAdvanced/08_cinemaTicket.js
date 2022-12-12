@@ -11,7 +11,3 @@ function cinemaTicket(input){
     }
     console.log(price)
 }
-
-cinemaTicket(["Monday"]);
-cinemaTicket(["Friday"]);
-cinemaTicket(["Sunday"]);
