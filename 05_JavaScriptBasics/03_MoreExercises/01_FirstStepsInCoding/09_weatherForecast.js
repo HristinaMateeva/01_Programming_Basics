@@ -7,7 +7,3 @@ function weatherForecast(input){
         console.log("It's cold outside!")
     }
 }
-
-weatherForecast(["sunny"])
-weatherForecast(["cloudy"])
-weatherForecast(["snowy"])
