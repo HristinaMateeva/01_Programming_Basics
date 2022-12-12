@@ -19,9 +19,3 @@ function timePlus15Minutes(input){
         console.log(`${hour}:${minutes}`) 
     }
 }
-
-timePlus15Minutes(["1", "46"])
-timePlus15Minutes(["0", "01"])
-timePlus15Minutes(["23", "59"])
-timePlus15Minutes(["11", "08"])
-timePlus15Minutes(["12", "49"])
