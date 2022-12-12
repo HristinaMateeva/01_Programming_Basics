@@ -20,6 +20,3 @@ function shopping(input){
         console.log(`Not enough money! You need ${difference.toFixed(2)} leva more!`)
     }
 }
-
-shopping(["900", "2", "1", "3"])
-shopping(["920.45", "3", "1", "1"])
