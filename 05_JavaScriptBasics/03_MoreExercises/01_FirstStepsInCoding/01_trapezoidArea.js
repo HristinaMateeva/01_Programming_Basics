@@ -6,5 +6,3 @@ function trapezoidArea(input){
     let result = (b1 + b2) * heigth / 2
     console.log(result.toFixed(2))
 }
-
-trapezoidArea(["8", "13", "7"])
