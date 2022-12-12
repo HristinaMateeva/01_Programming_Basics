@@ -16,6 +16,3 @@ function housePainting(input){
     console.log(totalPaintWalls.toFixed(2))
     console.log(totalPaintRoof.toFixed(2))
 }
-
-housePainting(["6", "10", "5.2"])
-housePainting(["10.25", "15.45", "8.88"])
