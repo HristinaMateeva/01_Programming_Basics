@@ -27,8 +27,3 @@ function transportPrice(input){
     }
     console.log(`${totalPrice.toFixed(2)}`)
 }
-
-transportPrice(["5", "day"])
-transportPrice(["7", "night"])
-transportPrice(["25", "day"])
-transportPrice(["180", "night"])
