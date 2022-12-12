@@ -19,7 +19,3 @@ function gozillaVsKong(input){
         console.log(`Wingard starts filming with ${difference.toFixed(2)} leva left.`)
     }
 }
-
-gozillaVsKong(["20000", "120", "55.5"])
-gozillaVsKong(["15437.62", "186", "57.99"])
-gozillaVsKong(["9587.88", "222", "55.68"])
