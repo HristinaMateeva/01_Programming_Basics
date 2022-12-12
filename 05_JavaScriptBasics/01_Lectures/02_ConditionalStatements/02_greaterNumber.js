@@ -8,7 +8,3 @@ function greaterNumber(input){
         console.log(num2)
     }
 }
-
-greaterNumber(["5", "3"])
-greaterNumber(["3", "5"])
-greaterNumber(["-5", "5"])
