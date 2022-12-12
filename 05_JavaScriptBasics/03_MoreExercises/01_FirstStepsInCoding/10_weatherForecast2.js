@@ -18,9 +18,3 @@ function weatherForecast(input){
 
     console.log(weather)
 }
-
-weatherForecast(["16.5"])
-weatherForecast(["8"])
-weatherForecast(["22.4"])
-weatherForecast(["26"])
-weatherForecast(["0"])
