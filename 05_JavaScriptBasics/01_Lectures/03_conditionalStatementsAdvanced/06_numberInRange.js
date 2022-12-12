@@ -7,7 +7,3 @@ function numberInRange(input){
         console.log("No");
     }
 }
-
-numberInRange(["-25"]);
-numberInRange(["0"]);
-numberInRange(["25"]);
