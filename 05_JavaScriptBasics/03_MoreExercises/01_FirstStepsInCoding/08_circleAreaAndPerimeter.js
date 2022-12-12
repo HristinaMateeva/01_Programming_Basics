@@ -7,6 +7,3 @@ function areaAndPerimeterCircle(input){
     console.log(areaCircle.toFixed(2))
     console.log(perimeterCircle.toFixed(2))
 }
-
-areaAndPerimeterCircle(["3"])
-areaAndPerimeterCircle(["4.5"])
