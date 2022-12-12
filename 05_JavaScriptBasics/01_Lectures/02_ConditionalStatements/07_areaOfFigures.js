@@ -20,8 +20,3 @@ function areaOfFigues(input){
 
     console.log(area.toFixed(3))
 }
-
-areaOfFigues(["square", "5"])
-areaOfFigues(["rectangle", "7", "2.5"])
-areaOfFigues(["circle", "6"])
-areaOfFigues(["triangle", "4.5", "20"])
