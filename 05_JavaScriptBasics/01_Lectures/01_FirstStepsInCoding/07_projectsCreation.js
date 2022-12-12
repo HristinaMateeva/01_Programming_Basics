@@ -6,6 +6,3 @@ function projectCreation(input){
     console.log(`The architect ${name} will need ${totalHours} hours to complete ${projects} project/s.`)
 
 }
-
-projectCreation(["George ","4 "])
-projectCreation(["Sanya ", "9 "])
