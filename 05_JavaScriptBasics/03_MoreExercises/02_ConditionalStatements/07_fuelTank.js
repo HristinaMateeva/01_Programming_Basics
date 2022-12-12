@@ -24,8 +24,3 @@ function fuelTank(input){
         console.log("Invalid fuel!")
     }
 }
-
-fuelTank(["Diesel", "10"])
-fuelTank(["Gasoline", "40"])
-fuelTank(["Gas", "25"])
-fuelTank(["Kerosene", "200"])
