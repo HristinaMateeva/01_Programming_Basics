@@ -6,6 +6,3 @@ function zooShop(input){
     let result = (priceDogFood * quantityDogFood) + (priceCatFood * quantityCatFood)
     console.log(`${result} lv.`)
 }
-
-zooShop(["5 ","4 "])
-zooShop(["13","9"])
