@@ -6,5 +6,3 @@ function concatenateData(input){
     let result = `You are ${firstName} ${lastName}, a ${age}-years old person from ${town}.`;
     console.log(result);
 }
-
-concatenateData(['Petar', 'Petrov', '24', 'Sofia'])
