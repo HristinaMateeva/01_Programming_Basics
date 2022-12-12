@@ -79,9 +79,3 @@ function tradeCommission(input){
         console.log("error");
     }
 }
-
-
-tradeCommission(["Sofia", "1500"])
-tradeCommission(["Plovdiv", "499.99"])
-tradeCommission(["Varna", "3874.50"])
-tradeCommission(["Kaspichan", "-50"])
