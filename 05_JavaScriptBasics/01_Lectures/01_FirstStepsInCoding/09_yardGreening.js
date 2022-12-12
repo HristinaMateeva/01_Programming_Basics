@@ -9,6 +9,3 @@ function yardGreeding(input){
     console.log(`The discount is: ${discount} lv.`)
 
 }
-
-yardGreeding(["550"])
-yardGreeding(["150"])
