@@ -9,6 +9,3 @@ function basketballEquipment(input){
     let totalSum = annualFee + priceShoes + priceClothes + priceBall + priceAccessories
     console.log(totalSum)
 }
-
-basketballEquipment(["365 "])
-basketballEquipment(["550 "])
