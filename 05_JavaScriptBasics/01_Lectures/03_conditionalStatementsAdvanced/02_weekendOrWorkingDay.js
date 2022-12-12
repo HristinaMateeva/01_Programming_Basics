@@ -14,7 +14,3 @@ function weekOrWeekend(input){
         break;
     }
 }
-
-weekOrWeekend(["Monday"]);
-weekOrWeekend(["Sunday"]);
-weekOrWeekend(["April"]);
