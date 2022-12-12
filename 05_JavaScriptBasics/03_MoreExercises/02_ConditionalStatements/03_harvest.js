@@ -17,6 +17,3 @@ function harvest(input){
         console.log(`It will be a tough winter! More ${difference} liters wine needed.`)
     }
 }
-
-harvest(["650", "2", "175", "3"])
-harvest(["1020" , "1.5", "425", "4"])
