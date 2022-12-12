@@ -6,7 +6,3 @@ function oddOrEven(input){
         console.log("odd")
     }
 }
-
-oddOrEven(["2"])
-oddOrEven(["3"])
-oddOrEven((["1024"]))
