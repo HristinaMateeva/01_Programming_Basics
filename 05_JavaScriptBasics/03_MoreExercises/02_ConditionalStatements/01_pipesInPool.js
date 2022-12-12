@@ -16,6 +16,3 @@ function pipesInPool(input){
         console.log(`For ${hours} hours the pool overflows with ${overflow.toFixed(2)} liters.`)
     }
 }
-
-pipesInPool(["1000", "100", "120", "3"])
-pipesInPool(["100", "100", "100", "2.5"])
