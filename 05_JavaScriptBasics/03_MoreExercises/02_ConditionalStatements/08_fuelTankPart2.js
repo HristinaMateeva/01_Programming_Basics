@@ -34,7 +34,3 @@ function fuelTank(input){
     }
     console.log(`${totalPrice.toFixed(2)} lv.`)
 }
-
-fuelTank(["Gas", "30", "Yes"])
-fuelTank(["Gasoline", "25", "No"])
-fuelTank(["Diesel", "19", "No"])
