@@ -12,6 +12,3 @@ function supplies(input){
     result =  result * (1 - percentDiscount)
     console.log(result)
 }
-
-supplies(["2 ", "3 ", "4 ", "25 "])
-supplies(["4 ", "2 ", "5 ", "13 "])
