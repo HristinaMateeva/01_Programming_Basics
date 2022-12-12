@@ -10,6 +10,3 @@ function trainingLab(input){
 
     console.log(totalSeats)
 }
-
-trainingLab(["15", "8.9"])
-trainingLab(["8.4", "5.2"])
