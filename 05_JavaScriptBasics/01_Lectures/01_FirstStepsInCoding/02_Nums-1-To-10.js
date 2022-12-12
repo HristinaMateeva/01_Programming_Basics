@@ -10,5 +10,3 @@ function printNumber1_to10(){
     console.log(9);
     console.log(10);
 }
-
-printNumber1_to10();
