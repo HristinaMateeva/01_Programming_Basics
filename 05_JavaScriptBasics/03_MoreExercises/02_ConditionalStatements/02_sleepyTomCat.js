@@ -21,6 +21,3 @@ function sleepyCatTom(input){
         console.log(`${hours} hours and ${minutes} minutes less for play`)
     }
 }
-
-sleepyCatTom(["20"])
-sleepyCatTom(["113"])
