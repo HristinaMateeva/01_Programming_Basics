@@ -5,6 +5,3 @@ function calculator(input){
     let result = deposit + period * ((deposit * annual_percent) / 12)
     console.log(result)
 }
-
-calculator(["200 ", "3 ", "5.7 "])
-calculator(["2350", "6 ", "7 "])
