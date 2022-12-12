@@ -16,6 +16,3 @@ function swimmingPool(input){
         console.log(`Yes, he succeeded! The new world record is ${totalTime.toFixed(2)} seconds.`)
     }
 }
-
-swimmingPool(["10464", "1500", "20"])
-swimmingPool(["55555.67", "3017", "5.03"])
