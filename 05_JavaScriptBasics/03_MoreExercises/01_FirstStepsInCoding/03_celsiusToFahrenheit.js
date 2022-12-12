@@ -4,8 +4,3 @@ function converter(input){
 
     console.log(fahrenheit.toFixed(2))
 }
-
-converter(["25"])
-converter(["0"])
-converter(["-5.5"])
-converter(["32.3"])
