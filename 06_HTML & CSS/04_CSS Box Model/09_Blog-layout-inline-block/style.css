@@ -1,0 +1,33 @@
+html {
+    border: 3px solid black;
+    color: rgb(51, 51, 51);
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+article {
+    display: inline-block;
+    width: 60%;
+    text-align: left;
+}
+
+header {
+    display: inline-block;
+}
+aside {
+    display: inline-block;
+    width: 20%;
+    position: absolute;
+}
+
+img {
+    width: 50%;
+}
+
+footer {
+    margin: 10px 0px;
+    padding: 10px 0px;
+}
