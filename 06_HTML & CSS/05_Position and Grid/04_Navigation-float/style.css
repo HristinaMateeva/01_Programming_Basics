@@ -1,0 +1,103 @@
+body {
+    background-color: rgb(238, 238, 238) ;
+}
+
+header {
+    position: relative;
+    display: block;
+}
+
+header p {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+header nav {
+    display: inline-block;
+}
+
+header nav ul {
+    list-style: none;
+    display: inline-block;
+    position: absolute;
+    right: 50px;
+    top: 2px;
+}
+
+header nav ul li{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+a {
+    color: rgb(0, 102, 0);
+    text-decoration: none;
+}
+
+h1, h2 {
+    size: 1em/1.2;
+    font-family: Georgia, serif;
+}
+
+main {
+    display: inline-block;
+    width: 60%;
+}
+
+aside {
+    display: inline-block;
+    position: absolute;
+    right: 100px;
+    top: 150px;
+}
+
+aside ul {
+    list-style: square;
+}
+
+img {
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.25);
+    padding: 3px;
+    border: 2px solid black;
+    margin: 5px;
+}
+
+#first {
+    float: left;
+}
+
+#second {
+    float: right;
+}
+
+blockquote {
+    position: absolute;
+    width: 20%;
+    display: inline-block;
+    font-family: Georgia, serif;
+    border-left: 3px solid lightgray;
+    padding: 20px;
+    color: gray;
+    font-style: italic;
+}
+
+blockquote > p:nth-child(2){
+    text-align: right;
+    width: 30%;
+}
+
+#text-align {
+    display: inline-block;
+    width: 30%;
+}
+
+#align-block, blockquote{
+    margin-bottom: 30px;
+}
+
+#text-align-right {
+    text-align: left;
+    display: inline-block;
+    width: 40%;
+}
