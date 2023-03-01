@@ -1,0 +1,33 @@
+html {
+    background-color: lightgray;
+    max-width: 1000px;
+}
+
+body, ul, li {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+
+body {
+    max-width: 1300px;
+}
+
+section {
+    margin: 40px ;
+}
+
+ul {
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: 10px;
+}
+
+li {
+    background-color: white;
+    max-height: 500px;
+    border: 7px solid black;
+    margin: 8px;
+    padding: 30px 15px;
+}
