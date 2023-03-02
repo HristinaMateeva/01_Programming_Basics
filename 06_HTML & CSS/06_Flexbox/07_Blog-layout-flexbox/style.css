@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-header {
+    border-bottom: 2px solid rgb(0,0,0);
+    width: 100%;
+    padding: 0px 20px;
+    margin: 0px 20px;
+}
+
+main {
+    max-width: 55%;
+    padding: 0px 20px;
+    margin: 0px 20px;
+}
+
+article {
+    margin: 40px;
+}
+
+img {
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.25);
+    padding: 3px;
+    border: 2px solid black;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    color: rgb(0, 153, 0);
+    text-decoration: none;
+}
+
+aside {
+    padding: 0px 20px;
+    margin: 0 20px;
+}
+
+#first {
+    float: right;
+    margin-left: 20px;
+}
+
+#second {
+    float: left;
+    margin-right: 20px;
+}
